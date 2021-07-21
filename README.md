@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dagmawi Beyene
-- 👀 I’m interested in Web applications, Data Science, Finance and AI
+- 👀 I’m interested in Web applications, Software Engineering, Data Science, Finance and AI
 - 🌱 I’m currently learning Software Engineering at Haaga-Helia UAS.
 - 📫 How to reach me: Dagmawibeyene.dev
 
